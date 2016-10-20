@@ -7,9 +7,11 @@ Maven +3.0
 **Installation**  
 From the command line: 
   
-1. git clone https://github.com/RockChalkJay/JumpCloud.git  
+1. git clone https://github.com/RockChalkJay/JumpCloud.git 
+
+2. cd JumpCloud
   
-2. mvn clean package --> This will compile the program and run all unit tests  
+3. mvn clean package --> This will compile the program and run all unit tests  
 
 **Running**  
 From the command line:  
