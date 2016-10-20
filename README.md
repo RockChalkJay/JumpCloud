@@ -14,7 +14,7 @@ From the command line:
 **Running**  
 From the command line:  
   
-1. java ./target/password-hash-1.0-SNAPSHOT.jar --server.port=8080 --> --server.port can be set to any port you would like the server to run on.  
+1. java -jar ./target/password-hash-1.0-SNAPSHOT.jar --server.port=8080 --> --server.port can be set to any port you would like the server to run on.  
   
 2. To run in debug mode: java -agentlib:jdwp=transport=dt_socket,server=y,suspend=n,address=5005 -jar ./target/password-hash-1.0-SNAPSHOT.jar --server.port=8082
 
